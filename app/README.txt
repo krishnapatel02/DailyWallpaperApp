@@ -1,0 +1,1 @@
+Android app that will fetch and set a wallpaper daily via a background service.
